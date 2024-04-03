@@ -1,0 +1,62 @@
+
+*{
+    font-family: Helvetica;
+}
+
+main{
+    background-image: url(./images/pattern.jpeg);
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2{
+    box-sizing: border-box;
+    width: 100%;
+    background-color: mediumspringgreen;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+
+h3{
+    box-sizing: border-box;
+    width: 100%;
+    background-color: lightcoral;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h4{
+    box-sizing: border-box;
+    width: 100%;
+    background-color: skyblue;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+
+figcaption {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.colortext{
+    color: blue;
+}
+
+figure{
+    margin: 20px auto;
+}
